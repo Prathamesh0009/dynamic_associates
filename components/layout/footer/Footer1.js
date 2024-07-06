@@ -11,7 +11,7 @@ export default function Footer1() {
                                 <div className="footer-logo mb-15">
                                     <Link href="/"><img src="/assets/images/logos/logo.png" alt="Logo" /></Link>
                                 </div>
-                                <p>Bjørn is an award UI/UX designs and branding agency based in New York, USA.</p>
+                                <p>Partner with us today to innovate with confidence using our advanced technology solutions!.</p>
                                 <div className="social-style-one mt-15">
                                     {/* <Link href="#"><i className="fab fa-twitter" /></Link>
                                     <Link href="#"><i className="fab fa-facebook-f" /></Link>
